@@ -8,6 +8,15 @@
   <br>
 </p>
 
+<br>
+
+## Demo
+
+<video src="images/demo.mp4" controls autoplay loop muted style="width:100%; height:auto;">
+</video>
+<br><br>
+
+
 ## Development Setup
 
 

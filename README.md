@@ -12,8 +12,11 @@
 
 ## Demo
 
-<video src="images/demo.mp4" controls autoplay loop muted style="width:100%; height:auto;">
-</video>
+
+https://github.com/user-attachments/assets/aed6dfe6-c2ef-48b3-8c49-c62d14f24611
+
+
+
 <br><br>
 
 
